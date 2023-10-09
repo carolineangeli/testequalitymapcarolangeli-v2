@@ -17,7 +17,7 @@ Observação: Em sistemas Linux, basta executar as linhas acima no terminal. Par
 
 ## Uso
 1. Clone este repositório: `git clone git@github.com:carolineangeli/testequalitymapcarolangeli.git`
-2. Navegue até o diretório do projeto: `cd seu-projeto`
+2. Navegue até o diretório do projeto: `cd testequalitymapcarolangeli-v2`
 3. Instale as dependências: `npm install`
 4. Execute o Cypress pela primeira vez: `npx cypress open`
   -  4.1 O cypress pode ser executado com interface grafica: `npx cypress open`
